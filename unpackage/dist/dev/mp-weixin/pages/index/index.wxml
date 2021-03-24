@@ -1,0 +1,1 @@
+<view class="content"><time-horizon class="vue-ref" bind:submitFun="__e" vue-id="8dd740cc-1" data-ref="timeHorizon" data-event-opts="{{[['^submitFun',[['submitFun']]]]}}" bind:__l="__l"></time-horizon></view>
